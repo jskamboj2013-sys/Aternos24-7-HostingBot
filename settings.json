@@ -9,7 +9,7 @@
     "ip": "zyxor.aternos.me",
     "port": 64107,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
