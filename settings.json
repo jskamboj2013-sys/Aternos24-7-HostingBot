@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "zyxor.aternos.me",
-    "port": :64107,
+    "port": 64107,
     "version": "",
     "try-creative": false
   },
